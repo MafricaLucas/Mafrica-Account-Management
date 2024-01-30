@@ -1,0 +1,6 @@
+.Stat-cards-container {
+    display: flex;
+    gap: 30px;
+    width: 90%;
+    margin: 30px auto;
+  }

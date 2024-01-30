@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+}
+#root {
+  height: 100%;
+}
+.App {
+  height: 100%;
+  background-image: url('../assets/img/background.png');
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+.App-header {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+}
+.Main-container {
+  height: calc(100% - 160px);
+}
+.App-header-logo {
+  margin: auto 0;
+  width: 130px;
+}
+.App-header-name {
+  font-family: 'Montserrat';
+  font-size: 25px;
+  font-weight: 400;
+  margin: 0;
+}
+.App-header-name-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto 0;
+}
