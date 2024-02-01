@@ -66,3 +66,5 @@ npm test
 -   **Design**: For the design process, I utilized Figma to create mockups of my application before beginning the coding phase. I chose to use Material UI for its user-friendly interface and design elements, which enhance the overall user experience.
 
 -   **Tests**: Tests was my most challenging part for this exercise. I'm not used to do testing but i spend more time on them to understand and learn more about testing. They may are not the bests tests but i think they cover the code pretty well.
+
+-   **Portfolio**: To show you more of my skills in react, i invite you to check my [Portfolio](https://www.lucas-mafrica.fr). Especially the page about my hobbies that is my last creation with animation.
